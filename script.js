@@ -21,3 +21,6 @@ console.log(footer);
 
 
 console.log("lastest update changes");
+
+
+console.log("learning web development is fun until and unless you are doing the shit things");
